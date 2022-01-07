@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mturlach
 - 👀 I’m interested in agile, lean, frameworks, innovation and technology
-- 🌱 I’m currently learning go
+- 🌱 I’m currently learning rust
 
 
 <!---
