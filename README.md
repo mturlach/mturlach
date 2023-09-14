@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mturlach
 - 👀 I’m interested in agile, lean, frameworks, innovation and technology
-- 🌱 I’m currently learning quarkus
+- 🌱 I’m currently learning ...
 
 ![Editor](https://img.shields.io/badge/editor-vscode-blue)
 
