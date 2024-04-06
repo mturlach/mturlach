@@ -2,7 +2,7 @@
 - 👀 I’m interested in agile, lean, frameworks, innovation and technology
 - 🌱 I’m currently learning ...
 
-![Editor](https://img.shields.io/badge/editor-vscode-blue) ![Editor(]https://img.shields.io/badge/editor-neovim-blue)
+![Editor](https://img.shields.io/badge/editor-vscode-blue) ![Editor](https://img.shields.io/badge/editor-neovim-blue)
 
 
 <!---
